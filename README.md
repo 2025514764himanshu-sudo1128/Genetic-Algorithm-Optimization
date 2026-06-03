@@ -1,8 +1,5 @@
 # Experiment 09: Mechanical Design Optimization using Genetic Algorithm
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -74,8 +71,8 @@ python -c "import matplotlib; print('Matplotlib:', matplotlib.__version__)"
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp09-Genetic-Algorithm-Optimization.git
-cd Exp09-Genetic-Algorithm-Optimization
+git clone https://github.com/2025514764himanshu-sudo1128/Genetic-Algorithm-Optimization.git
+cd Genetic-Algorithm-Optimization
 python beam_optimization_ga.py
 ```
 
