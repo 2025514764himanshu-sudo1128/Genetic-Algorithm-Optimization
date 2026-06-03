@@ -4,9 +4,6 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # ============================================================
-# EXPERIMENT 9: Beam Optimization using Genetic Algorithm
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class BeamConfigError(ValueError):
